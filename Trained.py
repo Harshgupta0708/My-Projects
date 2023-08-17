@@ -191,5 +191,3 @@ print("Application is Starting !!!")
 
 pba = Application()
 pba.root.mainloop()
-
-
